@@ -10,8 +10,6 @@ The rover is designed to assist in forensic investigations by autonomously detec
 4. Harmful gas detection using MQ gas sensor series.
 5. ESP32-controlled autonomous navigation with DC gear motors, servo motors, and motor drivers.
 
-## System Architecture
-
 
 ## AI Models
 ### Human Detection
