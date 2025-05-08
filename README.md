@@ -26,15 +26,6 @@ Purpose: Classify injuries as {}.
 ### Gas Sensor Thresholds
 This repository contains information about various gas sensors and their threshold values for detection.
 
-#### Gas Sensor Threshold Table
-
-| Gas               | Sensor  | Threshold |
-|------------------|--------|-----------|
-| Carbon Monoxide  | MQ-7   | 100 ppm   |
-| Methane         | MQ-4   | 500 ppm   |
-| Ammonia         | MQ-135 | 200 ppm   |
-
-This table lists common gas sensors and their corresponding threshold levels in parts per million (ppm). These values represent the minimum concentration at which the sensor can effectively detect the presence of the specified gas.
 
 ## Autonomous Navigation & Injury Photography System
 
